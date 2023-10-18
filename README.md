@@ -31,7 +31,7 @@ This API serves as the server-side component for booking appointments with home 
 
 ## 🖥️Integration with Front-End
 
-This back-end project is designed to seamlessly integrate with its counterpart *front-end project* 👉🏽[Appointment-capstone-frontend](https://github.com/lincoln1883/Appointment-capstone-frontend). The front-end, built with React.js and Redux, consumes the API provided by this back-end to provide a user-friendly interface for booking appointments.
+This back-end project is designed to seamlessly integrate with its counterpart *front-end project* 👉🏽[handyhommehub_frontend](https://github.com/jicamargo/handyhommehub_frontend). The front-end, built with React.js and Redux, consumes the API provided by this back-end to provide a user-friendly interface for booking appointments.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -120,7 +120,7 @@ In order to run this project you need the following installed locally:
 1. Clone the repository:
 
 ```
-  git clone https://github.com/lincoln1883/Appointment-capstone-backend.git
+  git clone https://github.com/jicamargo/handyhommehub_backend.git
 ```
 
 2. Install the dependencies:
@@ -179,7 +179,7 @@ You can run tests with the following command:
   rspec
 ```
 
-1. **Front End**: To install the front-end of this project, please visit the [Appointment-capstone-frontend](https://github.com/lincoln1883/Appointment-capstone-frontend) repository and follow the instructions in the README.md file.
+1. **Front End**: To install the front-end of this project, please visit the [handyhommehub_frontend](https://github.com/jicamargo/handyhommehub_frontend) repository and follow the instructions in the README.md file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,7 +237,7 @@ You can see a screenshoot of the initial state of the board below:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/lincoln1883/Appointment-capstone-backend/issues).
+Feel free to check the [issues page](https://github.com/jicamargo/handyhommehub_backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
