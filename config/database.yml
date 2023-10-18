@@ -7,18 +7,17 @@ default: &default
 
 development:
   <<: *default
-  database: appointments_development
+  database: handyhomehub_development
 
 test:
   <<: *default
-  database: appointments_test
+  database: handyhomehub_test
 
 production:
   <<: *default
   adapter: "postgresql"
   encoding: "unicode"
-  database: appointments
+  database: handyhomehub
   url: <%= ENV["DATABASE_URL"] %>
-  database: journeycash
   username: <%= ENV['POSTGRES_USERNAME'] %>
   password: <%= ENV['POSTGRES_PASSWORD'] %>
